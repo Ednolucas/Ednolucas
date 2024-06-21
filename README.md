@@ -6,3 +6,6 @@ Meu nome é Edno Lucas!
 - Ultilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos.
 - ## você pode entrar em contato comigo através do email:
 lucasedno3@gmail.com
+
+
+![](https://tenor.com/pt-BR/view/naruto-gif-19427546)
